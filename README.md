@@ -1,4 +1,4 @@
-# backer (Front-end)
+# Backer (Front-end)
 Kelas Fullstack Golang Vue NuxtJS: Website Crowdfunding
 =======
 # bwastartup
